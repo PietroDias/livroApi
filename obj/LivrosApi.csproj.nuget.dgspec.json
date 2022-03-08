@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LivrosApi\\LivrosApi.csproj": {}
+    "C:\\livroApi\\LivrosApi.csproj": {}
   },
   "projects": {
-    "C:\\LivrosApi\\LivrosApi.csproj": {
+    "C:\\livroApi\\LivrosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LivrosApi\\LivrosApi.csproj",
+        "projectUniqueName": "C:\\livroApi\\LivrosApi.csproj",
         "projectName": "LivrosApi",
-        "projectPath": "C:\\LivrosApi\\LivrosApi.csproj",
+        "projectPath": "C:\\livroApi\\LivrosApi.csproj",
         "packagesPath": "C:\\Users\\pietrod\\.nuget\\packages\\",
-        "outputPath": "C:\\LivrosApi\\obj\\",
+        "outputPath": "C:\\livroApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pietrod\\AppData\\Roaming\\NuGet\\NuGet.Config"

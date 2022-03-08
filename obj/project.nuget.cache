@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "teZWFLO+/W0E3E0jhzYzI6hx3XU1DZ13pffUgInRR44+J9/EJ0pSGPkwcRnm+uVLg8cw39xLFNSftiZ4iSSQXA==",
+  "dgSpecHash": "1Hhg+ykLIdXjEg1/S+Kja2YoOi3cyZrcxJCu0b+oEBuePLbYR+70SpEzXga76LbRuka5/x2YgWuzWRp4IIq5Lg==",
   "success": true,
-  "projectFilePath": "C:\\LivrosApi\\LivrosApi.csproj",
+  "projectFilePath": "C:\\livroApi\\LivrosApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pietrod\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pietrod\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.2\\microsoft.entityframeworkcore.6.0.2.nupkg.sha512",

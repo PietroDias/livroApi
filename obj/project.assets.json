@@ -1472,11 +1472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\LivrosApi\\LivrosApi.csproj",
+      "projectUniqueName": "C:\\livroApi\\LivrosApi.csproj",
       "projectName": "LivrosApi",
-      "projectPath": "c:\\LivrosApi\\LivrosApi.csproj",
+      "projectPath": "C:\\livroApi\\LivrosApi.csproj",
       "packagesPath": "C:\\Users\\pietrod\\.nuget\\packages\\",
-      "outputPath": "c:\\LivrosApi\\obj\\",
+      "outputPath": "C:\\livroApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pietrod\\AppData\\Roaming\\NuGet\\NuGet.Config"
